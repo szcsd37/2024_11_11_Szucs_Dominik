@@ -1,4 +1,4 @@
-nyelvek = ['Python',  'C', 'C++', 'Java']
+v
 
 # a lista végére hozzáfűz egy elemet
 nyelvek.append('Python')

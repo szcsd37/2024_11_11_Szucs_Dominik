@@ -21,4 +21,4 @@ print(nyelvek)
 # nyelvek.remove('Python')
 # 
 # # törli a listát
-# nyelvek.clear()
+# nyelvek.clear()   
